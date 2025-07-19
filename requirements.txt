@@ -1,0 +1,5 @@
+openai-agents
+python-dotenv
+requests 
+streamlit
+nest_asyncio
