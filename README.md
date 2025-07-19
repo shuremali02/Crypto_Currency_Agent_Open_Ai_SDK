@@ -29,7 +29,7 @@ This is a simple and interactive Streamlit-based chatbot that provides real-time
 
 ## 📸 Screenshot
 
-![Screenshot](./screenshot.png) *(Add a screenshot of your chatbot if available)*
+![Screenshot](./screenshot.png) 
 
 ---
 
