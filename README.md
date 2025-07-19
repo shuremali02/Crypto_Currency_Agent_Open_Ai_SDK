@@ -40,7 +40,7 @@ This is a simple and interactive Streamlit-based chatbot that provides real-time
 source venv/bin/activate  # or `.\venv\Scripts\activate` on Windows
 
 # 2. Install dependencies
-pip install -r requirements.txt
+uv add -r requirements.txt
 
 # 3. Run the Streamlit app
 streamlit run main.py
